@@ -1,2 +1,0 @@
-# pycharmconnection
-python codes
